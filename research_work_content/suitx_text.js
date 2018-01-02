@@ -34,9 +34,8 @@ document.write('\
 		<p>\
 		&emsp;Although My work with suitX went beyond that of an Electrical Engineering\
 		Intern, extending to collaborating with the Marketing Team. In addition to weekly\
-		interactions with investors and outside partners visiting suitX, I  attended two\
+		interactions with investors and outside partners visiting suitX, I attended two\
 		outreach events one at the Construction Expo and another at Google Ventures\
-
 		</p>\
 		\
 		<div class="text-center">\
