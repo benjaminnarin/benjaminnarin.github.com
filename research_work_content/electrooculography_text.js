@@ -18,8 +18,7 @@ document.write('\
 										<p></p>\
 										<p>\
 											&emsp;For those who fall victim to ALS (Amyotrophic Lateral Sclerosis) or similar progressive, incurable diseases moving even a wheelchair becomes impossible.\
-											The reason for this is because these diseases often quickly cause a person lose motor control and therefore the ability to drive any type of machine for assistance.\
-											While the disease rids the patient of movement they always have the ability to move their eyes which is where our project becomes invaluable.\
+											Motor Diseases such as these often cause a person to quickly lose motor control and thus lose the ability to drive any type of machine usually used for assistance.\
 											In conjunction with the Personal Robotics Lab at Oregon State University who are developing a wheelchair that can drive itself using way points set by eye\
 											tracking equipment our project would provide an emergency stop for those who can not physically hit a button but are still in control of heavy machinery.\
 											 We seek to create a mobile head set that measures the electric potential across the eyes. Based on two sensors placed on the temples, the voltage signifies whether\

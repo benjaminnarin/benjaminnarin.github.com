@@ -26,8 +26,8 @@ document.write('\
 											comprised of chance images accompanied by sound and music.\
 										</p>\
 										<p>\
-											&emsp;The project is a unique collaboration between robotocists from Oregon State University\'s Personal Robotics Lab (Bill Smart and Benjamin Narin) and Visual artist\
-											Shelley Jordon and sound artist Kurt Rohde. It brings together engineering and art to creat an immersive interactive experience that is unique to each viewer.\
+											&emsp;The project is a unique collaboration between roboticists from Oregon State University\'s Personal Robotics Lab (Bill Smart and Benjamin Narin) and Visual artist\
+											Shelley Jordon and sound artist Kurt Rohde. It brings together engineering and art to create an immersive interactive experience that is unique to each viewer.\
 										</p>\
 										<div class="text-center">\
 												<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>\
