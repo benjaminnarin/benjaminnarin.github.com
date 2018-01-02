@@ -14,7 +14,7 @@ document.write('\
 		&emsp;While competing in the Robotics For Good Competition in Dubai, with the\
 		wheelchair project, I met several members of suitX another team competing\
 		After getting to know the suitX team over the course of the competition they\
-		offered me a summer internship, thus I spent the summer in Berkeley\. Over the\
+		offered me a summer internship, thus I spent the summer in Berkeley. Over the\
 		four months I was at suitX I had the chance to work with their medical, industrial\
 		and marketing teams.\
 		</p>\
