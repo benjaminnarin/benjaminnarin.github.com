@@ -19,6 +19,7 @@ document.write('\
 										<p>\
 											&emsp;Action Jackson is a Jackson Pollock painting robot designed to explore robots in art. Action Jackson was used to\
 											make artwork for the 150 year anniversary for the Mechanical, Industrial and Manfacturing Engineering School (MIME) at Oregon State.\
+											Although a silly robot, the project was a great demo piece to show off the robotics program at Oregon State to non techincal visitors.\
 										</p>\
 										<div class="text-center">\
 												<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>\

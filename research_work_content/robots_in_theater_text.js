@@ -18,7 +18,8 @@ document.write('\
 										<p></p>\
 										<!-- <div class="text-center"> -->\
 										<p>\
-											&emsp;Robots In Theater is a test for the 2015 summer production of a Midsummers Nights Dream. A set of three scenes were selected to test both the actors and robots ability to act together.\
+											&emsp;Robots In Theater is a test for the 2015 summer production of a Midsummers Nights Dream. A set of three scenes were selected to test both the actors and robots ability to act together. \
+											while the show never happened, the project was an interesting cross disciplinary experiment.\
 										</p>\
 										<!-- </div> -->\
 										<div class="text-center">\
